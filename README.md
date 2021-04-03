@@ -84,11 +84,16 @@ This project was made using the follow technologies:
 
 # :construction_worker: How to Run
 
-### 💻 Run Project locally
+```bash
+# Clone Repository
+$ git clone https://github.com/maganezf/discord-ui-clone.git
+```
+
+### 💻 Run Web Project
 
 ```bash
 # Install Dependencies
-$ npm install or yarn install
+$ yarn install
 
 # Run Aplication
 $ yarn start
