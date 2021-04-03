@@ -56,8 +56,7 @@ contributors
 <h2 align="left"> 🎨 Layout:</h2>
 <p align="center">
   <div align="center">
-    <img src="./.github/screenshot1.png" width="400px" style='border-radius: 6px;' />
-    <img src="./.github/screenshot2.png" width="400px" style='border-radius: 6px;' />
+    <img src="./.github/screenshot.png" width="400px" style='border-radius: 6px;' />
   </div>
   <br/>
 </p>
